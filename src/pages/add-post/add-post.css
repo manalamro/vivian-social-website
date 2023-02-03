@@ -1,0 +1,59 @@
+.add-post {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.add-post form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+  row-gap: 20px;
+}
+
+.add-post form .input-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  row-gap: 10px;
+  text-align: left;
+}
+
+.add-post form .input-group textarea,
+.add-post form .input-group input {
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 5px #c3c3c3;
+  outline: none;
+  border: 1px solid #c3c3c3;
+}
+
+.add-post form .actions-group {
+  display: flex;
+  justify-content: flex-start;
+  column-gap: 10px;
+
+}
+
+.add-post form .actions-group button {
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 5px #cdcdcd;
+  outline: none;
+  border: unset;
+  background-color: #6eacf4;
+  font-weight: bold;
+  color: #fff;
+  width: 100px;
+  cursor: pointer;
+}
+
+.add-post form .actions-group button:active {
+  box-shadow: 0px 0px 5px #6f6f6f;
+}
+
+.add-post form .actions-group button:disabled {
+background-color:#6f6f6f;
+}

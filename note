@@ -1,0 +1,5 @@
+search: 
+take the value from the search input and render it at the url.
+
+Use Context concept solve props drilling problems.
+
