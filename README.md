@@ -1,4 +1,15 @@
 # Vivian Social Network
+this project is Social Network website called Vivian, contained features are:
+
+Search on any post by its author or its body content.
+filter the posts according to their likes number or by their comment number.
+add post.
+view single post.
+add like for posts that you like.
+
+# project demo:
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
