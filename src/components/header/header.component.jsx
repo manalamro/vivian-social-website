@@ -1,9 +1,9 @@
 import React, { useContext, useState } from 'react';
 import './header.css';
-import logo from '../../assets/images/logo.png';
+import logo from '../../assets/logo.png';
 import { BellSimpleRinging, EnvelopeSimple, PlusCircle, SignOut } from 'phosphor-react'
 import { Link, useSearchParams } from 'react-router-dom';
-import avatar from '/Users/manalamro/Downloads/vivian-social-network-f8c569057d31e3796fec3db2cf557473b8159f73/src/assets/avatar.png'
+import avatar from '../../assets/avatar.png'
 import { UserContext } from '../providers/UserProvider.component'
 
 

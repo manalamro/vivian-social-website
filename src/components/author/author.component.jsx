@@ -1,6 +1,6 @@
 import React from 'react';
 import './author.css';
-import userImg from '../../assets/images/user.png';
+import userImg from '../../assets/user.png';
 import { Link } from 'react-router-dom';
 const Author = (props) => {
   return (

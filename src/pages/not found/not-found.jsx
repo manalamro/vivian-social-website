@@ -1,4 +1,4 @@
-import Error from '/Users/manalamro/Downloads/vivian-social-network-f8c569057d31e3796fec3db2cf557473b8159f73/src/assets/Error.svg'
+import Error from '../../assets/Error.svg'
 
 const NotFound = () => {
     return (

@@ -1,6 +1,6 @@
 import { useNavigate } from 'react-router-dom';
 import './chat.css';
-import masseges from '/Users/manalamro/Downloads/vivian-social-network-f8c569057d31e3796fec3db2cf557473b8159f73/src/assets/masseges.svg'
+import masseges from '../../assets/masseges.svg'
 
 const Chat=()=>{
 const navigate = useNavigate();
