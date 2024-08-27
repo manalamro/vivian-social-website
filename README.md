@@ -8,11 +8,6 @@ this project is Social Network website called Vivian, contained features are:
 4. view single post.
 5. add like for posts that you like.
 
-
-## Mockups
-
-Use [this link](https://www.figma.com/community/file/1164103907030501213) to get the mockups of the app 
-
 ### `npm start`
 
 Runs the app in the development mode.\
